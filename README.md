@@ -41,7 +41,7 @@ This project focuses on analyzing an e-commerce dataset using SQL in Google BigQ
 
 ### 💰 Payment Growth
 
-![Payment Growth](outputs/payment_growth.png)
+![Payment Growth](outputs/payment_type_trend.png)
 
 👉 Revenue shows consistent growth, indicating strong business performance.
 
