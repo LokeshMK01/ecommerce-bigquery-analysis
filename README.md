@@ -57,7 +57,7 @@ This project focuses on analyzing an e-commerce dataset using SQL in Google BigQ
 
 ### 🚚 Delivery Analysis
 
-![Delivery Analysis](outputs/delivery_analysis.png)
+![Delivery Analysis](outputs/delivery_time_analysis.png)
 
 👉 Delivery times vary significantly, suggesting opportunities for optimization.
 
